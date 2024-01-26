@@ -1,0 +1,8 @@
+export default function CommunityPage() {
+    return <>
+        <h1>Our Community</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sit amet commodo nulla facilisi nullam. Rutrum tellus pellentesque eu tincidunt tortor. Nec tincidunt praesent semper feugiat nibh. Nunc congue nisi vitae suscipit tellus mauris a. Cras sed felis eget velit aliquet sagittis. Phasellus faucibus scelerisque eleifend donec pretium. Elementum nisi quis eleifend quam adipiscing. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Sed vulputate odio ut enim. Nulla posuere sollicitudin aliquam ultrices sagittis orci a. Enim ut tellus elementum sagittis vitae et leo duis ut. In metus vulputate eu scelerisque felis imperdiet. Imperdiet proin fermentum leo vel orci. Ac ut consequat semper viverra nam.
+
+Aenean et tortor at risus viverra adipiscing. Blandit massa enim nec dui nunc mattis. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Fringilla ut morbi tincidunt augue interdum. Mi tempus imperdiet nulla malesuada pellentesque. Congue mauris rhoncus aenean vel elit scelerisque mauris. Ac felis donec et odio pellentesque. Enim tortor at auctor urna nunc id. Faucibus in ornare quam viverra orci sagittis eu volutpat odio. Nec dui nunc mattis enim ut tellus. Pellentesque massa placerat duis ultricies lacus. Enim praesent elementum facilisis leo vel fringilla.</p>
+    </>
+}
